@@ -12,6 +12,9 @@ I like programming stuff and I'm 14
 - C#
 - Java
 - JS
+- Python (don't like it)
+- Bash (does it  count?)
+
 ### Want to learn
 - Brainfuck
 - C
