@@ -26,7 +26,7 @@ I like programming stuff and I'm 14
 ## Contact
 - Email: alice@arkane.tech
 - Work Phone: (540) 339 - 6239
-- Discord: @alice-theNeko#8396
+- Discord: @MeltingAlice#8396
 - Element/Matrix: [@aliceindystopia:fairydust.space](https://matrix.to/#/@aliceindystopia:fairydust.space)
 
 
