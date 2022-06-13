@@ -24,7 +24,7 @@ I like programming stuff and I'm 15
 - Einthusan4J
 
 ## Contact
-- Email: alice@arkane.tech
+- Email: alice@alicesworld.tech
 - Work Phone: (540) 339 - 6239
 - Discord: @MeltingAlice#8396
 - Element/Matrix: [@aliceindystopia:fairydust.space](https://matrix.to/#/@aliceindystopia:fairydust.space)
