@@ -3,7 +3,7 @@
 <!--
 **immortal-miku/immortal-miku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
-I like programming stuff and I'm 15
+I like programming stuff and I'm 16
 
 ## Programming stuff
 
@@ -26,7 +26,7 @@ I like programming stuff and I'm 15
 ## Contact
 - Email: alice@alicesworld.tech
 - Work Phone: (540) 339 - 6239
-- Discord: @MeltingAlice#8396
+- Discord: @Rafflesia#8396
 - Element/Matrix: [@aliceindystopia:fairydust.space](https://matrix.to/#/@aliceindystopia:fairydust.space)
 
 
