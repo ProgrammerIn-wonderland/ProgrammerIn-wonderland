@@ -3,7 +3,7 @@ Founder of [@MercuryWorkshop](https://github.com/MercuryWorkshop)
 <!--
 **immortal-miku/immortal-miku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
-I like programming stuff and I'm 16
+I like programming stuff and I'm 17
 
 ## Programming stuff
 
